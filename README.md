@@ -1,10 +1,12 @@
+***
+
 # Universitas dan Sains Sistem Kompleks
 
 **Sains sistem kompleks sebagai jawaban, tantangan, dan potensi universitas**
 
 *Posted on: December 2023*
 
----
+***
 
 Sarjana, sebuah gelar bergengsi di Indonesia. Sejak konsepsi awal negara Indonesia, pemilik gelar sarjana memiliki andil yang penting dalam pembentukan budaya bangsa. Sumpah pemuda, peristiwa Rengasdengklok, peristiwa 1965, hingga reformasi. Mereka inilah cendekiawan Indonesia. Bahkan istilah sarjana sudah ada semenjak Indonesia masih berupa kerajaan-kerajaan Hindu-Buddha. Pada saat itu pemegang gelar sarjana merupakan individu yang berpengetahuan luas dan mendalam dalam berbagai bidang, baik secara teknis seperti sains dan hukum, hingga filosofis.
 
